@@ -1,5 +1,5 @@
-token= NTAzNDAzNzI2MzM0MzI4ODMz.Dq1_Lw.qbESVr-7bqwZq6TOye71y6KT0ho
-owner= 503324987898200074 
+token= NTA5MTEyNjg1MzE3NTg2OTQ1.DsNnww.O5EcneQ7eeiV2Wc_tFfNPyYK55E
+owner= 478954803657965569 
 prefix= 6
 game= Type 6help
 stayinchannel=true 
